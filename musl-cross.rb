@@ -1,9 +1,9 @@
 class MuslCross < Formula
   desc "Linux cross compilers based on musl libc"
   homepage "https://github.com/richfelker/musl-cross-make"
-  version "0.9.5"
-  url "https://github.com/richfelker/musl-cross-make/archive/v0.9.5a.tar.gz"
-  sha256 "2ba7bf325a287b8c59da38fa68ac5db106e71db16d25a355fe773ff5c0ac7e7f"
+  version "0.9.6"
+  url "https://github.com/richfelker/musl-cross-make/archive/v0.9.6.tar.gz"
+  sha256 "9850146bd1e76abefa893b45066b4ca19061559369d00b181020108292d80854"
   head "https://github.com/richfelker/musl-cross-make.git"
 
   bottle do
